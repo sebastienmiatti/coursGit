@@ -1,1 +1,2 @@
 je suis dans Main apres avoir modifié conflit
+je suis dans la branche conflit
